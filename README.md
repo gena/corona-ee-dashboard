@@ -14,7 +14,7 @@ Death rate is calculate as follows:
 
 ![image](https://user-images.githubusercontent.com/169821/76144317-43a19f00-607f-11ea-95fb-040b5658a4a6.png)
 
-The size of the circles is computed as a square root of the number of cases (confirmed, recovered, deaths). The size of the recovered circle (green) is computed as a the square root of the recovered + deaths cases.
+The size of the circles is computed as a square root of the number of cases (confirmed, recovered, deaths), with the idea that the area of the circle should correspond to the number of cases. The size of the recovered cases circle (green) is computed as a the square root of the recovered + deaths cases. A more accurate formulae would be r = sqrt(N / pi), but I've skipped /pi part to ensure small changes increments can be distinguished in the radius changes.
 
 ## Roadmap
 
