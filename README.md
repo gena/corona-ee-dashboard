@@ -18,7 +18,6 @@ The size of the circles is computed as a square root of the number of cases (con
 
 ## Roadmap
 
-- [ ] Write user guide (legend, animation, click on country, click on chart) ...
 - [ ] Implement Play / Pause buttons
 
 ## Terms of Use
