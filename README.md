@@ -2,7 +2,7 @@
 
 Live Version: https://gena.users.earthengine.app/view/corona-virus.
 
-![dashboard](https://github.com/gena/corona-ee-dashboard/blob/master/media/dashboard.gif?raw=true | width=1024)
+![dashboard](https://github.com/gena/corona-ee-dashboard/blob/master/media/dashboard.gif?raw=true|width=1024)
 
 ## Data
 
