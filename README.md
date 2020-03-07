@@ -12,6 +12,7 @@ Death rate is calculate as follows:
 
 ![DeathRate = [\frac{N_{deaths}}{N_{confirmed}}; \frac{N_{deaths}}{N_{deaths}+N_{recovered}}]](http://www.sciweavers.org/tex2img.php?eq=DeathRate%20%3D%20%5B%5Cfrac%7BN_%7Bdeaths%7D%7D%7BN_%7Bconfirmed%7D%7D%3B%20%5Cfrac%7BN_%7Bdeaths%7D%7D%7BN_%7Bdeaths%7D%2BN_%7Brecovered%7D%7D%5D%0A&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0)
 
+The size of the circles is computed as a square root of the number of cases (confirmed, recovered, deaths). The size of the recovered circle (green) is computed as a the square root of the recovered + deaths cases.
 
 ## Roadmap
 
