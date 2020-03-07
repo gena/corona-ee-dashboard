@@ -1,2 +1,20 @@
-# corona-ee-dashboard
-One more dashboard to visualize COVID19 outbreak
+## Dashboard
+
+Live Version: https://gena.users.earthengine.app/view/corona-virus.
+
+## Data
+
+The main source of data for the dashboard is: https://github.com/CSSEGISandData/COVID-19. 
+
+## Description 
+
+...
+
+## Roadmap
+
+- [ ] Write user guide (legend, animation, click on country, click on chart) ...
+- [ ] Implement Play / Pause buttons
+
+## Terms of Use
+
+This GitHub repo and its contents herein, including all mapping and analysis, copyright 2020 Gennadii Donchyts, all rights reserved, is provided to the public strictly for educational and academic research purposes. The Website relies upon publicly available data from multiple sources, that do not always agree. The authors of the dashboard hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
