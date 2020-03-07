@@ -10,7 +10,7 @@ The main source of data for the dashboard is: https://github.com/CSSEGISandData/
 
 Death rate is calculate as follows:
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=DeathRate%20%3D%20%5B%5Cfrac%7BN_%7Bdeaths%7D%7D%7BN_%7Bconfirmed%7D%7D%3B%20%5Cfrac%7BN_%7Bdeaths%7D%7D%7BN_%7Bdeaths%7D%2BN_%7Brecovered%7D%7D%5D%0A&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0)
+![image](https://user-images.githubusercontent.com/169821/76144317-43a19f00-607f-11ea-95fb-040b5658a4a6.png)
 
 The size of the circles is computed as a square root of the number of cases (confirmed, recovered, deaths). The size of the recovered circle (green) is computed as a the square root of the recovered + deaths cases.
 
