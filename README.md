@@ -18,7 +18,10 @@ The size of the circles is computed as a square root of the number of cases (con
 
 ## Roadmap
 
-- [ ] Implement Play / Pause buttons
+- [x] Implement Play / Pause buttons
+- [x] Log scale
+- [x] Increments vs. cumulative charts
+- [ ] Forecasts (e.g. https://timchurches.github.io/blog/posts/2020-03-01-analysing-covid-19-2019-ncov-outbreak-data-with-r-part-2/)
 
 ## Terms of Use
 
