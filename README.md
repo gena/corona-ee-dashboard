@@ -18,8 +18,15 @@ The size of the circles is computed as a square root of the number of cases (con
 
 ## Roadmap
 
-- [ ] Implement Play / Pause buttons
+- [x] Implement Play / Pause buttons
+- [x] Log scale
+- [x] Increments vs. cumulative charts
+- [ ] Forecasts (e.g. https://timchurches.github.io/blog/posts/2020-03-01-analysing-covid-19-2019-ncov-outbreak-data-with-r-part-2/)
 
 ## Terms of Use
 
 This GitHub repo and its contents herein, including all mapping and analysis, copyright 2020 Gennadii Donchyts, all rights reserved, is provided to the public strictly for educational and academic research purposes. The Website relies upon publicly available data from multiple sources, that do not always agree. The authors of the dashboard hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
+
+## Contact
+
+gennadiy.donchyts@gmail.com
