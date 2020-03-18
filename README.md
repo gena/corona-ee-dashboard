@@ -6,7 +6,7 @@ Live Version: https://gena.users.earthengine.app/view/corona-virus.
 
 ## Data
 
-The main source of data for the dashboard is: https://github.com/CSSEGISandData/COVID-19. 
+The main data source for this dashboard is: https://github.com/CSSEGISandData/COVID-19. 
 
 ## Description 
 
